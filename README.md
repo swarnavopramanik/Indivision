@@ -5,7 +5,7 @@ Object detection is a groundbreaking computer vision task that has a ton of appl
 When working on custom models for object detection or other machine learning tasks, one of the challenges that researchers and developers may encounter is the lack of suitable databases or datasets. Overcoming these challenges often requires creativity and resourcefulness so this post will focus on how to create your custom database.
 
 
-Build a YOLO11l object detection model on a custom dataset and the corresponding application using Streamlit. The main goal of this project is to provide a simple and efficient implementation of real-time object detection that can be easily customized and integrated into other applications.
+Build a YOLO11l object detection model on a custom dataset. The main goal of this project is to provide a simple and efficient implementation of real-time object detection that can be easily customized and integrated into other applications.
 
 
 
